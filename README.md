@@ -1,6 +1,6 @@
 # Pautas para la participación en la comunidad de PucelaBits 
 
-__Versión 1.0 - Actualizada el 15 de febrero de 20201__
+__Versión 1.0 - Actualizada el 15 de febrero de 2021__
 
 El corazón de PucelaBits son las personas. Las personas son nuestra prioridad y hacemos todo lo posible por reconocer, valorar y respetar la diversidad de nuestros colaboradores. En el proyecto PucelaBits se aceptan las contribuciones de todos aquellos que compartan nuestros objetivos y deseen contribuir de una manera positiva y constructiva dentro de nuestra comunidad. Es por eso que adoptamos este código de conducta y pedimos a todos los que participan que acepten estas pautas para la participación en la comunidad y las cumplan a fin de ayudarnos a crear una experiencia segura y positiva para todos en la comunidad. 
 
